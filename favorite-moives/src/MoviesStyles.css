@@ -1,0 +1,16 @@
+
+
+
+#movies {
+    background-color: #E34C26;
+    color: white; 
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 100%;
+    max-width: 500px;
+    margin-left: 500px;
+   
+    
+}
